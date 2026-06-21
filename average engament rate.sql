@@ -1,0 +1,2 @@
+SELECT AVG(engagement_rate) AS avg_engagement_rate
+FROM social_media_performance;

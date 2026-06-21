@@ -1,0 +1,3 @@
+CREATE DATABASE AI_Social_Media_Analytics;
+
+USE AI_Social_Media_Analytics;

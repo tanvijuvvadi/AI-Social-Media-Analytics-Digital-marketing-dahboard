@@ -1,0 +1,2 @@
+SELECT month_name, sentiment_score
+FROM social_media_performance;

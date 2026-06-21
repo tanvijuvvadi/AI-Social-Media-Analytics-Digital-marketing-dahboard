@@ -1,0 +1,2 @@
+SELECT month_name, total_engagements
+FROM social_media_performance;
